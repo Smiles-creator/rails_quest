@@ -1,0 +1,9 @@
+one:
+  title: Operation Silent Echo
+  status: planned
+  agent: one
+
+two:
+  title: Mission Blue Dawn
+  status: in_progress
+  agent: two

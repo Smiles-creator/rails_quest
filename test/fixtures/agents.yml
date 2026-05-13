@@ -1,0 +1,9 @@
+one:
+  codename: shadow_alpha
+  level: 5
+  active: true
+
+two:
+  codename: viper_beta
+  level: 3
+  active: false
